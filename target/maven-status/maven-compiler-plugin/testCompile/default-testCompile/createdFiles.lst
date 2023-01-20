@@ -1,0 +1,8 @@
+resources\APIResources.class
+testRunner\TestRunner.class
+base\BaseBuilder.class
+utilities\PropertiesReader.class
+steps\Witwiser.class
+resources\Payload.class
+base\CrudOperation.class
+utilities\Utilities.class
